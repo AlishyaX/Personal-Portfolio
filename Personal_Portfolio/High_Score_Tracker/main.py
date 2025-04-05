@@ -15,7 +15,7 @@ def main():
     print(title_case_string)
 
     while True:
-        log_in_or_exit = input('What do you want to do?\n1. Log into an account\n2. Sign up\n3. Exit\nChoice: ').strip()
+        log_in_or_exit = input('\n\nWhat do you want to do?\n1. Log into an account\n2. Sign up\n3. Exit\nChoice: ').strip()
 
         match log_in_or_exit:
             case '1':
@@ -54,7 +54,7 @@ def main():
                 print(f"\nWelcome {username}!\n")
                 # Automatically goes to the second menu after signing up
                 while True:
-                    choice = input('What would you like to do?\n1. Play Game\n2. Display top 10 scores\n3. Log out\nChoice: ').strip()
+                    choice = input('\n\nWhat would you like to do?\n1. Play Game\n2. Display top 10 scores\n3. Log out\nChoice: ').strip()
 
                     match choice:
                         case '1':

@@ -19,9 +19,7 @@ def programming_portfolio():
 
     #This is a loop that keeps going until they type in 7 to exit the program
     while True:
-        options = input(
-            '\n\n\n\nMenu:\n1. Project 1: Battle Simulator\n2. Project 2: Coin Change Problem\n3. Project 3: Financial Calculator\n4. Project 4: High Score Tracker\n5. Project 5: Random Password Generator\n6. Project 6: Simple Morse Code Translator\n7. Exit\nChoice: '
-        )
+        options = input('\n\nMenu:\n1. Project 1: Battle Simulator\n2. Project 2: Coin Change Problem\n3. Project 3: Financial Calculator\n4. Project 4: High Score Tracker\n5. Project 5: Random Password Generator\n6. Project 6: Simple Morse Code Translator\n7. Exit\nChoice: ').strip()
 
         #These take the users options and shows them the project details and the actual program
         if options == '1':
