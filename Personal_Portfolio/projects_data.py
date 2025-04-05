@@ -1,7 +1,6 @@
 #Projects Data
 
-# Projects Data
-
+#This is a list of dictionaries that holds the information of each of the projects in my portfolio
 projects = [
     {
         "name": "Battle Simulator",

@@ -58,7 +58,7 @@ def main():
         #If they want to exit
         elif choice == '2':
             print("Thank you for using the Coin Change Solver!")
-            exit()
+            break
 
         #If something other than the options are inputted
         else:

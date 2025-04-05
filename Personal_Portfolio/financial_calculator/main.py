@@ -81,7 +81,7 @@ def main():
         #User interface
         #Calls all other functions
         print('Welcome to the basic financial calculator!\n')
-        pick = input('What would you like to do?\n1. See how long it will take to save for a goal based on a weekly or monthly deposit\n2. Compound Interest Calculator\n3. Budget Allocator\n4. Sale Price Calculator\n5. Tip Calculator\n6. None\n')
+        pick = input('What would you like to do?\n1. See how long it will take to save for a goal based on a weekly or monthly deposit\n2. Compound Interest Calculator\n3. Budget Allocator\n4. Sale Price Calculator\n5. Tip Calculator\n6. Exit\n')
         if pick == '1':
             save_goal()
         elif pick == '2':

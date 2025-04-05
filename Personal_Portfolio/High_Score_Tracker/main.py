@@ -44,7 +44,7 @@ def main():
             case '3':
                 #This exits the program
                 print('Thank you for playing!')
-                exit()
+                return
 
             case _:
                 #This is for if they input something other than those options
@@ -53,6 +53,8 @@ def main():
     
     #This keeps running until they want to Log out
     while True:
+        if log_in_or_exit == '3':
+            break
         #These is the users choice's that they have to input that also doesn't have to worry about leading/trailing spaces
         choice = input('What would you like to do?\n1. Play Game\n2. Display top 10 scores\n3. Log out\nChoice: ').strip()
 

@@ -76,7 +76,7 @@ def main():
         elif choice == '9':
             # Exits the program
             print("Goodbye!")
-            exit()
+            break
         else:
             # Error-Handling
             print("That is not an option. Try again...")
