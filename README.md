@@ -11,25 +11,27 @@ To use this project what you have to do is first install the necessary libraries
 
 ## Used Technologies
 ---
-+ First library in the repository
-`pip install code for the library`
-+ Second library in the repository
-`pip install code for the library`
-+ Third library in the repository
-`pip install code for the library`  
++ Matplotlib
+`pip install matplotlib`
++ Numpy
+`pip install numpy`
++ Faker
+`pip install Faker` 
++ Pandas
+`pip install pandas` 
 
 ## Curent Features
 ---
-+ First feature I am proud of
-+ Second feature I am proud of 
-+ Third feature I am proud of
++ I am proud of how I figured out the right syntax and way to use a function inside of a file inside of a folder
++ I am also proud of how I updated all of my old programs to fit into the portfolio_menu with having any errors or breaking the code
++ Lastly I am proud of the way I decided to hold all of the information of each project in a list of dictionaries
 
 
 ## Contributors
 ---
-+ Person who helped - what they did 
-+ Person who helped - what they did 
-+ Person who helped - what they did  
++ My Dad - helped me understand the correct syntax for why I couldn't take the function from a file in a folder and use it inside of my code and some other small errors
++ Copilot - helped debug some problems that neither I, google or my dad could understand 
++ My old team(John, Eli, and Locklin) - they helped make the High Score Tracker Project  
 
 ## Authors Information
 ---
