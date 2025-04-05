@@ -7,7 +7,7 @@ The purpose of this project was to create a user interface for at least 6 projec
 ## Execution and Usage
 ---
 To use this project what you have to do is first install the necessary libraries and then run the portfolio_menu file. Then it will explain what this program is and how to use it. The user then gets to choose which project they want to see information about and have run by typing in the corresponding number next to the project right next to the word choice. Then if they want to exit they type in the number 7.
-![image](./image/portfolio.png)  
+![image](Personal_Portfolio/Battle_Simulator/images/battle.png)  
 
 ## Used Technologies
 ---
