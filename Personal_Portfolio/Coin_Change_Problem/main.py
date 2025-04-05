@@ -7,7 +7,7 @@ load_coin_denominations, coin_change_solver = features()
 
 def main():
     #The relative path of the csv file is saved into a variable that is used throughout the program
-    file_path = "Coin_Change_Problem/denominations.csv"  
+    file_path = "denominations.csv"  
     print("Welcome to the Coin Change Solver!")
 
     #This keeps looping until they choose to exit

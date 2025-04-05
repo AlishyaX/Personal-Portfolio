@@ -6,9 +6,8 @@ The purpose of this project was to create a user interface for at least 6 projec
 
 ## Execution and Usage
 ---
-To use this project what you have to do is first install the necessary libraries and then run the portfolio_menu file. Then it will explain what this program is and how to use it. Then the user gets to choose to 
-Paragraph describing how to use the project
-![image](relative path to image NOTE: Image has to be saved in the repository Reminder: Show what the project looks like when running)  
+To use this project what you have to do is first install the necessary libraries and then run the portfolio_menu file. Then it will explain what this program is and how to use it. The user then gets to choose which project they want to see information about and have run by typing in the corresponding number next to the project right next to the word choice. Then if they want to exit they type in the number 7.
+![image](image/Screenshot 2025-04-05 102652.png)  
 
 ## Used Technologies
 ---
